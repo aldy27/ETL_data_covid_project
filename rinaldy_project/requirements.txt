@@ -1,0 +1,5 @@
+mysqlclient
+mysql-connector-python
+pymysql
+sqlalchemy
+psycopg2-binary
