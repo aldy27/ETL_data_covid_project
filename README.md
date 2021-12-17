@@ -16,3 +16,9 @@
 #Dimension case table
 
 ![image](https://user-images.githubusercontent.com/91445279/146593228-cfa70d7a-7b4d-4a2e-b851-3207eb742847.png)
+
+# Airflow
+
+![image](https://user-images.githubusercontent.com/91445279/146594409-3adbceae-fcab-49c2-9c11-3015383da77c.png)
+
+![image](https://user-images.githubusercontent.com/91445279/146594310-7b93bc1d-5974-4223-b263-4130b220ff8c.png)
